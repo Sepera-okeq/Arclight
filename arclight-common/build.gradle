@@ -30,7 +30,7 @@ arclight {
     accessTransformer = project.file('bukkit.at')
     // packageName = 'spigot'
 }
-
+ 
 configurations {
     embed
 }
